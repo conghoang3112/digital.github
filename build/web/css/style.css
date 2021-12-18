@@ -1,0 +1,48 @@
+.all{
+    font-family: sans-serif;
+    width: 886px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content{
+    width: 886px;
+    height: auto;
+    display: flex;
+    background-image: url(../images/bg.jpg);
+}
+.left{
+    padding: 20px 20px 20px 80px;
+    width: 520px; /*620-80-20*/
+    height: auto;
+    border-right: 2px dotted lightgray;
+}
+.title{
+    font-size: 20px;
+    color: #4E5E55;
+    font-weight: bold;
+}
+.left img{
+    width: 60%;
+}
+.description{
+    padding-bottom: 30px;
+    border-bottom: 2px solid #f3f3f3;
+}
+.comment{
+    height: 10px;
+    width: 10px;
+    background-image: url(../images/comment.gif);
+}
+.timeicon{
+    height: 10px;
+    width: 10px;
+    background-image: url(../images/timeicon.gif);
+}
+.author{
+    padding-top: 5px;
+    display: flex;
+    float: right;
+    font-size: 13px;
+    color: #45584E;
+}

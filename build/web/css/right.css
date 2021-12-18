@@ -1,0 +1,23 @@
+.right{
+    padding: 20px 80px 20px 20px;
+    width: 226px;
+    height: auto;
+}
+.title{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.arctile a{
+    color: #45584E;
+}
+.right button{
+    border: none;
+    background-color: white;
+    color: #45584E;
+}
+.right input{
+    border: 2px dashed #45584E;
+}
+.searchBox{
+    width: 150px;
+}
